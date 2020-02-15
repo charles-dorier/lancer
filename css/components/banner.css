@@ -1,0 +1,8 @@
+.banner {
+	background-image: url(../../images/amg.jpeg);
+	color:darkred;
+    padding: 160px 0px;
+    background-size: cover;
+    background-position: center;
+}
+
